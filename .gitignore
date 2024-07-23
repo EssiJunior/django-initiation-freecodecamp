@@ -1,0 +1,6 @@
+.venv
+.vscode
+dj4e-samples
+__pycache__
+*.sqlite3
+*.swp
